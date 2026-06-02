@@ -1,0 +1,22 @@
+body {
+    background-color: #000081;
+    height: 100vh;
+}
+h1 {
+    font-size: 10vh;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #f3f0e6;
+}
+
+#emoji {
+    font-size: 15vh;
+    margin-left: 5vh;
+    color: #f3f0e6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p {
+    font-size: 3vh;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #f3f0e6;
+}
